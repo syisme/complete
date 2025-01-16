@@ -17,10 +17,10 @@ gorm:
   max-idle-conns: 10
   max-open-conns: 100
 mysql:
-  username: ""
-  password: ""
-  addr: ""
-  dbname: ""
+  username: "toor"
+  password: "security#1"
+  addr: "remote.usm.my:3308"
+  dbname: "InfoRemote"
 rustdesk:
   id-server: "remote.usm.my:21116"
   relay-server: "remote.usm.my:21117"
